@@ -1,56 +1,15 @@
 #EXTM3U 
-#EXTINF:-1 tvg-ID="" tvg-name="======= CALCIO =======" tvg-logo="" group-title="ITALY",======= CALCIO ======= http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/642
-#EXTINF:-1 tvg-ID="SkySportSerieA.it" tvg-name="IT: Sky Serie A Full HD" tvg-logo="https://iptvsensation.org/picons/skysparenahd.png" group-title="ITALY",IT: Sky Serie A Full HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21420 
-#EXTINF:-1 tvg-ID="SkySportSerieA.it" tvg-name="IT: Sky Serie A HD" tvg-logo="" group-title="ITALY",IT: Sky Serie A HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21419
-#EXTINF:-1 tvg-ID="SkySportSerieA.it" tvg-name="IT: Sky Serie A SD" tvg-logo="" group-title="ITALY",IT: Sky Serie A SD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21418 
-#EXTINF:-1 tvg-ID="SkySportSerieA.it" tvg-name="IT: Sky Sport Serie A HD" tvg-logo="http://iptvsensation.org/picons/skysupercalciohd.png" group-title="ITALY",IT: Sky Sport Serie A HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/17635 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: ( 251) SKY Sport Full HD - Diretta Gol" tvg-logo="" group-title="ITALY",IT: ( 251) SKY Sport Full HD - Diretta Gol http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21604 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: (251) SKY Sport Full HD - Diretta Gol" tvg-logo="" group-title="ITALY",IT: (251) SKY Sport Full HD - Diretta Gol http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21717 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: (252) SKY Sport SD" tvg-logo="" group-title="ITALY",IT: (252) SKY Sport SD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21602 
-#EXTINF:-1 tvg-ID="SkySport251.it" tvg-name="IT: (251) SKY Sport HD - Diretta Gol" tvg-logo="https://iptvsensation.org/picons/skycalcio1hd.png" group-title="ITALY",IT: (251) SKY Sport HD - Diretta Gol http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/17368 
-#EXTINF:-1 tvg-ID="SkySport251.it" tvg-name="IT: (251) SKY Sport - (Diretta Gol) SD" tvg-logo="" group-title="ITALY",IT: (251) SKY Sport - (Diretta Gol) SD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21417 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: ( 252) SKY Sport Full HD" tvg-logo="" group-title="ITALY",IT: ( 252) SKY Sport Full HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21603 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: (252) SKY Sport Full HD" tvg-logo="" group-title="ITALY",IT: (252) SKY Sport Full HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21716 
-#EXTINF:-1 tvg-ID="SkySport252.it" tvg-name="IT: (252) SKY Sport HD" tvg-logo="http://iptvsensation.org/picons/skycalcio2hd.png" group-title="ITALY",IT: (252) SKY Sport HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/17369 
-#EXTINF:-1 tvg-ID="SkySport253.it" tvg-name="IT: (253) SKY Sport HD" tvg-logo="http://iptvsensation.org/picons/skycalcio3hd.png" group-title="ITALY",IT: (253) SKY Sport HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/17634 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: (253) SKY Sport SD" tvg-logo="" group-title="ITALY",IT: (253) SKY Sport SD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21601 
-#EXTINF:-1 tvg-ID="SkySport254.it" tvg-name="IT: (254) SKY Sport HD" tvg-logo="http://iptvsensation.org/picons/skycalcio4hd.png" group-title="ITALY",IT: (254) SKY Sport HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/17633 
-#EXTINF:-1 tvg-ID="SkySport255.it" tvg-name="IT: (255) SKY Sport HD" tvg-logo="http://iptvsensation.org/picons/skycalcio5hd.png" group-title="ITALY",IT: (255) SKY Sport HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/17632 
-#EXTINF:-1 tvg-ID="SkySport256.it" tvg-name="IT: (256) SKY Sport HD" tvg-logo="http://iptvsensation.org/picons/skycalcio6hd.png" group-title="ITALY",IT: (256) SKY Sport HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/17631 
-#EXTINF:-1 tvg-ID="SkySport257.it" tvg-name="IT: (257) SKY Sport HD" tvg-logo="http://iptvsensation.org/picons/skycalcio7hd.png" group-title="ITALY",IT: (257) SKY Sport HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/17899 
-#EXTINF:-1 tvg-ID="SkySport258.it" tvg-name="IT: (258) SKY Sport HD" tvg-logo="http://iptvsensation.org/picons/skycalcio8hd.png" group-title="ITALY",IT: (258) SKY Sport HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/4320 
-#EXTINF:-1 tvg-ID="SkyCalcio9.it" tvg-name="IT: Sky Calcio 9" tvg-logo="http://iptvsensation.org/picons/skycalcio9.png" group-title="ITALY",IT: Sky Calcio 9 http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/17896 
-#EXTINF:-1 tvg-ID="SkyCalcio10.it" tvg-name="IT: Sky Calcio 10" tvg-logo="http://iptvsensation.org/picons/skycalcio10.png" group-title="ITALY",IT: Sky Calcio 10 http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/17897 
-#EXTINF:-1 tvg-ID="SkyCalcio11.it" tvg-name="IT: Sky Calcio 11" tvg-logo="http://iptvsensation.org/picons/skycalcio11.png" group-title="ITALY",IT: Sky Calcio 11 http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/17898 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Diretta Premium Sport/Calcio HD (per eventi napoli/juve/roma/milan/inter: cronaca tifoso)" tvg-logo="" group-title="ITALY",IT: Diretta Premium Sport/Calcio HD (per eventi napoli/juve/roma/milan/inter: cronaca tifoso) http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/17871 
-#EXTINF:-1 tvg-ID="PremiumSport2.it" tvg-name="IT: Premium Sport 2 HD" tvg-logo="https://iptvsensation.org/picons/mediasetpremiumsport2hd.png" group-title="ITALY",IT: Premium Sport 2 HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/5419 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Premium Sport SD" tvg-logo="https://iptvsensation.org/picons/mediasetpremiumsport.png" group-title="ITALY",IT: Premium Sport SD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21323 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SPORT VETRINA" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN SPORT VETRINA http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21697 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SERIE-A 1 (DVB-S) Full-HD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN SERIE-A 1 (DVB-S) Full-HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21700 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SERIE-A 1 (DVB-S) HD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN SERIE-A 1 (DVB-S) HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21699 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SERIE-A 1 (DVB-S) SD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN SERIE-A 1 (DVB-S) SD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21698 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 1 FULLHD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN 1 FULLHD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21706 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn 1 HD" tvg-logo="" group-title="ITALY",IT: Dazn 1 HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21160 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn 2 HD" tvg-logo="" group-title="ITALY",IT: Dazn 2 HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21161 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn 3 HD" tvg-logo="" group-title="ITALY",IT: Dazn 3 HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21162 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn 4 HD" tvg-logo="" group-title="ITALY",IT: Dazn 4 HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21163 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn 5 HD" tvg-logo="" group-title="ITALY",IT: Dazn 5 HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21164 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 6 HD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN 6 HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21704 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 7 HD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN 7 HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21703 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 8 HD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN 8 HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21702 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 9 HD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN 9 HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21701
- #EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN 10 HD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN 10 HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21705 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn 11 HD" tvg-logo="" group-title="ITALY",IT: Dazn 11 HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/26124 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn 12" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: Dazn 12 http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21722 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn 13" tvg-logo="" group-title="ITALY",IT: Dazn 13 http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/26121 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: Dazn 14 HD" tvg-logo="" group-title="ITALY",IT: Dazn 14 HD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/26123
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SPORT 1 FHD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN SPORT 1 FHD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21336 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SPORT 2 FHD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN SPORT 2 FHD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21334 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SPORT 3 FHD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN SPORT 3 FHD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21333 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SPORT 4 FHD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN SPORT 4 FHD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21332 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SPORT 5 FHD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN SPORT 5 FHD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21331 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SPORT 6 FHD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN SPORT 6 FHD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21330 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SPORT 7 FHD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN SPORT 7 FHD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21329 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SPORT 8 FHD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN SPORT 8 FHD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21328 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SPORT 9 FHD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN SPORT 9 FHD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21327 
-#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN SPORT 10 FHD" tvg-logo="https://iptvsensation.org/picons/dazn.png" group-title="ITALY",IT: DAZN SPORT 10 FHD http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21335
+#EXTINF:-1, Sky Serie A Full HD
+http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21420 
+#EXTINF:-1, Sky Serie A HD
+http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21419
+#EXTINF:-1, Sky Serie A SD
+http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21418 
+#EXTINF:-1, Sky Sport Serie A HD
+http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/17635 
+#EXTINF:-1,( 251) SKY Sport Full HD - Diretta Gol
+http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21604 
+#EXTINF:-1, (251) SKY Sport Full HD - Diretta Gol
+http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21717 
+#EXTINF:-1, (252) SKY Sport SD
+http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21602 
