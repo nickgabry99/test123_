@@ -1,15 +1,19 @@
 #EXTM3U 
-#EXTINF:-1, Sky Serie A Full HD
-http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21420 
-#EXTINF:-1, Sky Serie A HD
-http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21419
-#EXTINF:-1, Sky Serie A SD
-http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21418 
-#EXTINF:-1, Sky Sport Serie A HD
-http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/17635 
-#EXTINF:-1,( 251) SKY Sport Full HD - Diretta Gol
-http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21604 
-#EXTINF:-1, (251) SKY Sport Full HD - Diretta Gol
-http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21717 
-#EXTINF:-1, (252) SKY Sport SD
-http://185.132.178.32:6500/bOnF0iIF8B/oZh7QEuIjd/21602 
+#EXTINF:0, EMPOLI - BOLOGNA 1
+https://nopay.info/embed.php?id=liveCh1
+#EXTINF:1, EMPOLI - BOLOGNA 2
+https://nopay.info/embed.php?id=liveCh31
+#EXTINF:2, EMPOLI - BOLOGNA 3
+https://nopay.info/embed.php?id=liveCh48
+#EXTINF:3, UDINESE - NAPOLI 1
+https://nopay.info/embed.php?id=liveCh2
+#EXTINF:4, UDINESE - NAPOLI 2
+https://nopay.info/embed.php?id=liveCh12
+#EXTINF:5, UDINESE - NAPOLI 3
+https://nopay.info/embed.php?id=liveCh32
+#EXTINF:6, UDINESE - NAPOLI 4
+https://nopay.info/embed.php?id=liveCh47
+#EXTINF:7, Brighton - Man Utd 1
+https://nopay.info/embed.php?id=liveCh18
+#EXTINF:8, sky tennis
+https://nopay.info/embed.php?id=liveCh16
